@@ -96,7 +96,7 @@ public class Test
 
 		    Enumeration<NetworkInterface> networks = NetworkInterface.getNetworkInterfaces();
 		    while(networks.hasMoreElements()) {
-		      NetworkInterface network = networks.nextElement();
+		      NetworkInterface network = networks.nextElement(); //s
 		      byte[] mac = network.getHardwareAddress();
 
 		      if(mac != null) {
