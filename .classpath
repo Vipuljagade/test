@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/testng-6.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/log4j-core-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/ant-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/poi-3.14-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/poi-excelant-3.14-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/poi-ooxml-3.14-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/poi-ooxml-schemas-3.14-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-ie-driver-2.0b3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/testng-6.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/bsh.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/selenium-chrome-driver-2.0b3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/jar files/opencsv-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
